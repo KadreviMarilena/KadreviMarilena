@@ -11,7 +11,7 @@ I'm always learning and building - I believe staying curious is what keeps you m
 ## 🛠️ Tech Stack
 
 **Frontend**
-React.js · Next.js · HTML5 · CSS · JavaScript · Bootstrap · AngularJS
+React.js · HTML5 · CSS · JavaScript · Bootstrap · AngularJS
 
 **Backend**
 Python · Django · PHP · Java · C · C++
@@ -30,7 +30,8 @@ Machine Learning · Computer Vision · TensorFlow · Scikit-learn · MATLAB
 ## What I'm working on
 
 - Building digital products end-to-end — from requirements and architecture to implementation and delivery
-- Expanding into cloud infrastructure — pursuing **AWS AI Practitioner** certification
+- Expanding into cloud infrastructure and AI
+- Building a civic tech side project from concept to MVP
 
 ---
 
