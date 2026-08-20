@@ -35,6 +35,20 @@ Machine Learning · Computer Vision · TensorFlow · Scikit-learn · MATLAB
 
 ---
 
+## 📂 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🏥 Eye-Tracking Algorithm — Medical VR | High-accuracy eye-detection algorithms for pediatric ophthalmological exams in a VR environment, enabling remote patient monitoring | Python · VR · Computer Vision |
+| 🧬 RNA Classification Algorithm | Diploma Thesis — Classification algorithm for non-coding RNA sequences. Supervised by Prof. Markos Tsipouras, University of Western Macedonia | Python · ML · Bioinformatics |
+| 👁️ Pupil Tracking Visualization | Parsing and visualization of pupil tracking data (EyeRecToo output) | Python · Data Analysis |
+| 🌐 Freelance Web Projects Portfolio | End-to-end web solutions — websites, e-commerce platforms, booking and payment system automations | React.js · PHP · MySQL · Wordpress |
+| 🤖 Robotic Arm Simulator | Python-based robotic arm simulator using Turtle graphics and basic kinematics | Python |
+| 📊 Constrained K-Means Classification | MATLAB implementation of Constrained K-Means for clustering and classification | MATLAB · ML |
+| 🖼️ Image Editor Tool | Client-side image upload and editing tool inspired by Snipboard.io | HTML · CSS · JavaScript · PHP |
+
+---
+
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marilena%20Kadrevi-blue)](https://www.linkedin.com/in/marilena-kadrevi)
